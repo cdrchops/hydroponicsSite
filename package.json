@@ -1,0 +1,20 @@
+{
+  "name": "hydroponics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jQuery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mtopete1996@bitbucket.org/mtopete1996/hydroponics_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/mtopete1996/hydroponics_web#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0"
+  }
+}
